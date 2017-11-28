@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b9e26c4bfcec8d04596c9c4b2a203940
+timeCreated: 1511878245
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YDISapphIIM-KSCpc-EUC-H
+  fontNames:
+  - YDISapphIIM-KSCpc-EUC-H
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
